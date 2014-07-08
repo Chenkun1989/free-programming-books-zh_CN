@@ -193,14 +193,18 @@
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
-* [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
-* [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
-* [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
-* [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
-* [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/)
-* [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
+* Web 开发
+    * [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
+    * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
+    * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
+    * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
+    * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
+    * [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/)
+    * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
+* Data Science
+    * [用Python进行自然语言处理 中文版](http://wenku.baidu.com/view/8f4005e0b8f67c1cfad6b8b6.html)
+    * [Python科学计算](http://hyry.dip.jp/tech/book/index/scipy)
 
 ### Ruby
 
